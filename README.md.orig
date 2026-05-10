@@ -1,5 +1,8 @@
 # project1
 mergeconflict
+<<<<<<< HEAD
 This is ecommerce service updating file.
+=======
 This is java1 program
+>>>>>>> 9cea98922dfbf26a39904cde44acdb784746b4b9
 hello
